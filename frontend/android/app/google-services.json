@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635323884647",
+    "firebase_url": "https://smartbakery-52ce5-default-rtdb.firebaseio.com",
+    "project_id": "smartbakery-52ce5",
+    "storage_bucket": "smartbakery-52ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635323884647:android:66819ebce4bfd04b4560c2",
+        "android_client_info": {
+          "package_name": "bakert.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635323884647-iqlbj9lsh91gn8ifhgee0gkh3s9eqmo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcHgLMJbbSRJ5SKnoq9PQ8qVMGjTk5i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635323884647-ffeob04hnknu5hm1d5kcd9uv1d20tjda.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635323884647-bcfd9p3g1b4nnubel63uk95et6h3q14i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
